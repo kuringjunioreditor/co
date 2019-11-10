@@ -1,0 +1,2 @@
+# co
+gabung script file
